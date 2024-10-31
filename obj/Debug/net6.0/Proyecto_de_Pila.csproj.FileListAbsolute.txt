@@ -1,0 +1,14 @@
+C:\Users\prueb\Desktop\Proyecto_de_Pila\bin\Debug\net6.0\Proyecto_de_Pila.exe
+C:\Users\prueb\Desktop\Proyecto_de_Pila\bin\Debug\net6.0\Proyecto_de_Pila.deps.json
+C:\Users\prueb\Desktop\Proyecto_de_Pila\bin\Debug\net6.0\Proyecto_de_Pila.runtimeconfig.json
+C:\Users\prueb\Desktop\Proyecto_de_Pila\bin\Debug\net6.0\Proyecto_de_Pila.dll
+C:\Users\prueb\Desktop\Proyecto_de_Pila\bin\Debug\net6.0\Proyecto_de_Pila.pdb
+C:\Users\prueb\Desktop\Proyecto_de_Pila\obj\Debug\net6.0\Proyecto_de_Pila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prueb\Desktop\Proyecto_de_Pila\obj\Debug\net6.0\Proyecto_de_Pila.AssemblyInfoInputs.cache
+C:\Users\prueb\Desktop\Proyecto_de_Pila\obj\Debug\net6.0\Proyecto_de_Pila.AssemblyInfo.cs
+C:\Users\prueb\Desktop\Proyecto_de_Pila\obj\Debug\net6.0\Proyecto_de_Pila.csproj.CoreCompileInputs.cache
+C:\Users\prueb\Desktop\Proyecto_de_Pila\obj\Debug\net6.0\Proyecto_de_Pila.dll
+C:\Users\prueb\Desktop\Proyecto_de_Pila\obj\Debug\net6.0\refint\Proyecto_de_Pila.dll
+C:\Users\prueb\Desktop\Proyecto_de_Pila\obj\Debug\net6.0\Proyecto_de_Pila.pdb
+C:\Users\prueb\Desktop\Proyecto_de_Pila\obj\Debug\net6.0\Proyecto_de_Pila.genruntimeconfig.cache
+C:\Users\prueb\Desktop\Proyecto_de_Pila\obj\Debug\net6.0\ref\Proyecto_de_Pila.dll
